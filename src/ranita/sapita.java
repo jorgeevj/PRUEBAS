@@ -93,7 +93,7 @@ multiplicador=Integer.parseInt(sofia);
 producto= multiplicando*multiplicador;
 jTextArea1.setText(String.valueOf(producto));
 
-      //jTextArea1.setText(String.valueOf(noeju-joren));
+      //jTextArea1.setText(String.valueOf(noeju-joren));comentario
 
 // TODO add your handling code here:
     }//GEN-LAST:event_jButton1ActionPerformed
